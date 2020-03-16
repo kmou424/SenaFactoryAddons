@@ -1,0 +1,6 @@
+LANG_NOTICE_HEADER=语言:
+TIME_TEXT_HEADER=时间:
+UNZIP_ROM_START=开始解压Rom
+UNZIP_ROM_END=解压完成
+ZIP_FILE_NOT_FOUND=错误:没有找到任何Rom的ZIP文件,请检查文件是否放置正确
+ZIP_FILES_TO_MANY_ERROR=错误:检测到ZIP文件过多,请检查文件数量,只需要放置一个
